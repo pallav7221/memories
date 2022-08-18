@@ -1,5 +1,4 @@
 
 export const getPosts = (req,res)=>{
-    res.send(
-        "This Works")
+    res.send("This Works All good")
 }
